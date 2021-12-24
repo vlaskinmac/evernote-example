@@ -47,7 +47,7 @@ https://www.evernote.com/shard/.../guid_JOURNAL_NOTEBOOK_GUID?...
 INBOX_NOTEBOOK_GUID - GUID this is an inbox
 
 
-##Examples:
+## Examples:
 
 
 #### add_note2journal.py
